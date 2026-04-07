@@ -1,1 +1,1 @@
-# subdomain-takeover-3
+# subdomain-takeovers
